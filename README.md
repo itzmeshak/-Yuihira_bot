@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/27678adec2911baf8d057.jpg">
+  <img src="https://te.legra.ph/file/5153e2f729b6e4df2d985.jpg">
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TeamAgora/Music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-yellow?style=for-the-badge&logo=heroku" width="420" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/itzmeshak/Yuihira_bot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-yellow?style=for-the-badge&logo=heroku" width="420" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
